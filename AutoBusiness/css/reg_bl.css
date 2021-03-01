@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+
+  background:
+  url("../img/pattern_nega.png");
+
+  font-family: Tahoma;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+.card {
+  width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+
+  background-color: #757575;
+  box-shadow: 0 5px 10px #ccc;
+  border-radius: 10px; 
+}
+
+.card-title {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  margin: 20px 0px 0px;
+}
+
+.card-input {
+  font-size: 20px;
+  background-color: #ffe;
+  color: #930;
+  margin: 10px 0px 0px;
+}
+
+form {
+  text-align: center;
+}
+
+.card-button {
+  text-align: center;
+  font-size: 20px;
+  margin: 15px 50px 0px;
+}

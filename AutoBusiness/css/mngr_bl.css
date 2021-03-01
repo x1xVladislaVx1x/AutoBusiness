@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+
+  background:
+  url("../img/pattern_nega.png");
+
+  font-family: Tahoma;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+.card {
+  width: 1200px;
+  margin: 30px auto;
+  padding: 20px;
+
+  background-color: #757575;
+  box-shadow: 0 5px 10px #ccc;
+  border-radius: 10px; 
+}
+
+.card-title {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+
+.card-label {
+  color: white;
+  font-size: 20px;
+  margin: 0px;
+}
+
+.card-form {
+  text-align: center;
+}
+
+.card-zagl {
+  font-size: 25px;
+  text-align: center;
+  color: white;
+  margin: 15px;
+}
+
+.card-input {
+  font-size: 22px;
+  background-color: #ffe;
+  color: #930;
+}
+
+.card-table1 {
+  font-size: 23px;
+  color: white;
+  border-color: white;
+  border: 1;
+  width: 1100px;
+}
+
+.card-table2 {
+  font-size: 23px;
+  color: white;
+  border-color: white;
+  border: 1;
+  width: 550px;
+}
+
+.card-table3 {
+  font-size: 23px;
+  color: white;
+  border-color: white;
+  border: 1;
+  width: 300px;
+}
+
+.card-button1 {
+  text-align: center;
+  font-size: 23px;
+  margin: 15px 0px 10px;
+}
+
+.card-button2 {
+  text-align: center;
+  font-size: 23px;
+  margin: 2px 0px 10px;
+}
+
+.add {
+  margin: 0 auto; 
+  moz-border-radius: 10px; /* Firefox */
+  -webkit-border-radius: 10px; /* Safari, Google Chrome */
+  -khtml-border-radius: 10px; /* KHTML */
+  -o-border-radius: 10px; /* Opera */
+  -ms-border-radius: 10px; /* IE8 */
+  border-radius: 10px; /* CSS3 */
+  overflow:hidden;
+
+  padding: 30px;
+  height: 400px;
+  overflow-y: scroll; 
+}
+
+.add2 {
+  margin: 15px 0px 0px; 
+  moz-border-radius: 10px; /* Firefox */
+  -webkit-border-radius: 10px; /* Safari, Google Chrome */
+  -khtml-border-radius: 10px; /* KHTML */
+  -o-border-radius: 10px; /* Opera */
+  -ms-border-radius: 10px; /* IE8 */
+  border-radius: 10px; /* CSS3 */
+  overflow:hidden;
+  text-align: center;
+
+  padding: 30px;
+  height: 400px;
+  overflow-y: scroll; 
+}
+
+.add3 {
+  margin: 0 auto; 
+  moz-border-radius: 10px; /* Firefox */
+  -webkit-border-radius: 10px; /* Safari, Google Chrome */
+  -khtml-border-radius: 10px; /* KHTML */
+  -o-border-radius: 10px; /* Opera */
+  -ms-border-radius: 10px; /* IE8 */
+  border-radius: 10px; /* CSS3 */
+  overflow:hidden;
+  text-align: center;
+
+  padding: 30px;
+  height: 400px;
+  overflow-y: scroll; 
+}
